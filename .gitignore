@@ -1,0 +1,6 @@
+public/
+.idea/
+.Rproj.user
+**/.DS_Store
+website.Rproj
+**/.Rhistory
