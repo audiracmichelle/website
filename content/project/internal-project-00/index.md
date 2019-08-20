@@ -32,27 +32,43 @@ image:
 #slides: example
 ---
 
-* *Goal* 
+I worked on this project when I was an Asset Manager at CiBanco.
+
+## Goal 
    - Develop a Robo-Advisor, called Optimist, who generates investment recommendations for an Asset Management team
 
-* *Activities*
+## Duration
+   - 1 year project
+
+## Activities
    - Built Data Pipelines enabling smooth, automated flow of data from multiple sources
    - Lead the deployment of self-serve reports for various stakeholders
-   - Researched Risk Parity strategies [[1]](#ref)
+   - Researched Risk Parity strategies [[1]](#ref1)
    - Coded functionalities of a Robo-Advisor whose recommendations are driven by a Risk Parity strategy
 
-* *Toolbox*
+## Toolbox
    - Batch scheduling
    - R
    - SQL
 
-* *Outcome*
+## Outcome
    - Eliminated manual repetitive tasks from team's daily processes
    - Migrated reporting workload from Excel to a full suite of dashboards
-   - Uncovered actionable insights for the Asset Management team
-   
-Please fork [Optimist](https://github.com/audiracmichelle/optimist) in github!
+   - Uncovered actionable insights for an Asset Management team
 
-<a name="ref"></a>
+---
+
+### Optimist documentation:
+
+[Into to Optimist](https://audiracmichelle.github.io/risk_parity_seminar/seminar/intro.html)
+
+[Intro to Risk Parity](https://audiracmichelle.github.io/risk_parity_seminar/seminar/risk_parity.html)
+
+
+Please fork [Optimist](https://github.com/audiracmichelle/optimist) in github to collaborate!
+
+---
+
+<a name="ref1"></a>
 [1] [Roncalli, Thierry (2009) *On the properties of equally-weighted
 risk contributions portfolios*](http://www.thierry-roncalli.com/download/erc.pdf)
