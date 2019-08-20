@@ -44,7 +44,7 @@ This was my favorite school project as a Master's student.
    - Extracted movie scripts that were classified by genre from [imsdb](https://www.imsdb.com/)
    - Cleaned and preprocessed text data to train neural-nets and obtain word embeddings
    - Studied word representations in vector space [[1]](#ref1)[[2]](#ref2)
-   - Wrote an analysis found [here](https://audiracmichelle.github.io/proyecto_final_metodos_analiticos/)
+   - Wrote an report found [here](https://audiracmichelle.github.io/proyecto_final_metodos_analiticos/)
 
 ## Toolbox
    - R
