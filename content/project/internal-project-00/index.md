@@ -49,6 +49,7 @@ I worked on this project when I was an Asset Manager at CiBanco.
 ## Toolbox
    - Batch scheduling
    - R
+   - Shiny
    - SQL
 
 ## Outcome

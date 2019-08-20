@@ -35,7 +35,7 @@ image:
 This was my favorite school project as a Master's student.
 
 ## Goal
-   - Discover differences between movie genres through their scripts
+   - Discover differences between movie genres using embeddings of words in movie scripts
 
 ## Duration
    - 1 month project

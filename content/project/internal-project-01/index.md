@@ -38,7 +38,7 @@ I worked on this project when I was a Data Scientist at Datank.
    - Predict which borrowers will make late payments for a Credit Risk team
 
 ## Duration
-   - Three-month project
+   - Six-month project
 
 ## Activities
    - Wrangled a very messy transaction stream
