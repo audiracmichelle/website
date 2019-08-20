@@ -75,3 +75,16 @@ subtitle = ""
  css_class = ""
 +++
 
+## 8+ε years working in data-driven modeling
+
+The projects I have worked in projects that give life to reproducible analytics and predictions by funneling data into Machine Learning pipelines 
+
+My projects give life to statistical and optimization models by creating pipelines that funnel data from different sourcesinto pipelines that 
+
+are focused on giving life to Machine Learning Models by funneling them into data pipelines
+
+
+
+    
+
+

@@ -73,3 +73,4 @@ I am a Data Hercules whose 12th labor is to tame the train-test-validation Cerbe
 
 ![](/img/cerberus.png)
 
+## I ♥ bash R docker SQL Python
