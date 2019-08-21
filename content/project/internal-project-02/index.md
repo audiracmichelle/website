@@ -32,7 +32,9 @@ image:
 #slides: example
 ---
 
-This was my favorite school project as a Master's student.
+This was my favorite project as a Master's student.
+
+---
 
 ## Goal
    - Discover differences between movie genres using embeddings of words in movie scripts
@@ -42,14 +44,25 @@ This was my favorite school project as a Master's student.
 
 ## Activities
    - Extracted movie scripts that were classified by genre from [imsdb](https://www.imsdb.com/)
-   - Cleaned and preprocessed text data to train neural-nets and obtain word embeddings
+   - Cleaned and preprocessed text data to train neural-nets and obtain word embeddings for each movie genre
    - Studied word representations in vector space [[1]](#ref1)[[2]](#ref2)
-   - Wrote an report found [here](https://audiracmichelle.github.io/proyecto_final_metodos_analiticos/)
+   - Compared word embeddings between movie genres
 
 ## Toolbox
    - R
+   
+---
 
-## Findings
+## Outcome
+  - Documented the findings and the extraction/cleaning process
+
+### Project report:
+
+[NLP + Movie Genre notebook](https://audiracmichelle.github.io/proyecto_final_metodos_analiticos/)
+
+Please clone this  [github repository](https://github.com/audiracmichelle/proyecto_final_metodos_analiticos) to replicate the results!
+
+### Findings:
    - These are the 100 most common nouns used accross all movie genres.
    
 <pre class="r"><code>top100nouns$word</code></pre>

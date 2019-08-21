@@ -34,6 +34,8 @@ image:
 
 I worked on this project when I was an Asset Manager at CiBanco.
 
+---
+
 ## Goal 
    - Develop a Robo-Advisor, called Optimist, who generates investment recommendations for an Asset Management team
 
@@ -52,16 +54,16 @@ I worked on this project when I was an Asset Manager at CiBanco.
    - Shiny
    - SQL
 
+---
+
 ## Outcome
    - Eliminated manual repetitive tasks from team's daily processes
    - Migrated reporting workload from Excel to a full suite of dashboards
    - Uncovered actionable insights for an Asset Management team
 
----
-
 ### Optimist documentation:
 
-[Into to Optimist](https://audiracmichelle.github.io/risk_parity_seminar/seminar/intro.html)
+[Intro to Optimist](https://audiracmichelle.github.io/risk_parity_seminar/seminar/intro.html)
 
 [Intro to Risk Parity](https://audiracmichelle.github.io/risk_parity_seminar/seminar/risk_parity.html)
 

@@ -34,6 +34,8 @@ image:
 
 I worked on this project when I was a Data Scientist at Datank.
 
+---
+
 ## Goal
    - Predict which borrowers will make late payments for a Credit Risk team
 
@@ -51,7 +53,12 @@ I worked on this project when I was a Data Scientist at Datank.
    - Docker
    - Python
 
+---
+
 ## Outcome
    - Achieved model performance of 80% precision (99% accuracy)
    - Coded appropriate solutions fit for production
    - An API that delivers predictions seamlessly to a Credit Risk team
+
+---
+
