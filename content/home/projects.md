@@ -79,7 +79,7 @@ subtitle = ""
 
 ## 8+ε years working in data-driven modeling
 
-Click on the projects below to learn more.
+Click on a project's name or image to learn more:
 
     
 
