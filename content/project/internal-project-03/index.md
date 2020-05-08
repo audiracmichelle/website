@@ -94,11 +94,13 @@ Data pulled from New York Times and Johns Hopkins github repositories provide:
 
 A county is considered in the analysis once the number of COVID-19 deaths reaches a threshold of 3 deaths per 10,000,000 people.
 
+---
+
 ### Project notebooks:
 
-[EDA]()
+EDA notebook [https://github.com/audiracmichelle/website/blob/master/temp/EDA.md](https://github.com/audiracmichelle/website/blob/master/temp/EDA.md)
 
-[Vanilla Model]()
+Vanilla model notebook [https://github.com/audiracmichelle/website/blob/master/temp/vanilla_model_1.md](https://github.com/audiracmichelle/website/blob/master/temp/vanilla_model_1.md)
 
 ---
 
