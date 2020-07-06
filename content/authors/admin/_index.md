@@ -69,8 +69,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Data Hercules whose 12th labor is taming the train-test-validation Cerberus to unleash the Underworld powers of Machine Learning.
-
-![](/img/cerberus.png)
-
-## I ♥ bash R docker SQL Python
+Please click on one of my Data Science projects
